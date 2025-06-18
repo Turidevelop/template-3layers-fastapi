@@ -28,16 +28,16 @@ template-3layers-fastapi/
 │   └── schemas.py           # Esquemas de datos
 │
 ├── services/                # Lógica de aplicación
-│   └── example_service.py    # Servicio para operaciones con viajes
+│   └── example_service.py    # Servicio para operaciones con xxxx
 │
 ├── repositories/            # Acceso a datos
 │   ├── base.py              # Interfaz base para repositorios
-│   └── example_repo.py       # Implementación para viajes
+│   └── example_repo.py       # Implementación para xxxxx
 │
 ├── api/                     # Capa de presentación
 │   ├── dependencies.py      # Dependencias inyectables
 │   └── endpoints/           # Endpoints de la API
-│       └── example.py       # Endpoints específicos para viajes
+│       └── example.py       # Endpoints específico xxxx
 │
 └── database.py              # Configuración de base de datos
 
